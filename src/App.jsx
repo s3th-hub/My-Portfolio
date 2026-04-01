@@ -277,7 +277,7 @@ export default function App() {
             >
               <div className="relative z-10 w-full max-w-md mx-auto aspect-[3/4] rounded-2xl overflow-hidden border-4 border-accent shadow-[10px_10px_0px_0px_rgba(255,153,0,0.2)] md:shadow-[20px_20px_0px_0px_rgba(255,153,0,0.2)]">
                 <img 
-                  src="src/Assets/images/sethmunyasi.png" 
+                  src="src/Assets/images/seth.png" 
                   alt="Seth Munyasi"
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   referrerPolicy="no-referrer"
