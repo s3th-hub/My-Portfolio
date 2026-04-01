@@ -27,43 +27,50 @@ const PROJECTS = [
     title: "ACREMAG",
     description: "A comprehensive Real Estate Management Platform designed to streamline property listings, client management, and transaction tracking.",
     tech: ["PHP", "MySQL", "JavaScript", "Tailwind CSS"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/acremag.jpg"
   },
   {
     title: "Hospital Management System",
     description: "A robust system for managing patient records, appointments, billing, and staff schedules in a clinical environment.",
     tech: ["PHP", "MySQL", "JavaScript", "Bootstrap"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/hospital.jpg"
   },
   {
     title: "Competence Coaching Centre",
     description: "A corporate training and consultancy website helping companies train staff and solve business problems through expert-led programs.",
     tech: ["WordPress", "PHP", "Custom CSS"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/competence.jpg"
   },
   {
     title: "AWiM Learning",
     description: "An online e-learning platform focused on media and journalism, empowering women with storytelling skills to grow their careers.",
     tech: ["LMS", "PHP", "JavaScript", "WordPress"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/awim.jpg"
   },
   {
     title: "Tap Magazine Africa",
     description: "A digital magazine and content publishing platform delivering editorial and brand-driven content across Africa.",
     tech: ["WordPress", "Editorial Design", "PHP"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/tapmag.jpg"
   },
   {
     title: "Baddy Store Kenya",
     description: "A full-featured e-commerce platform where customers can browse and purchase products directly online.",
     tech: ["WooCommerce", "PHP", "Payment Integration"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/baddy.jpg"
   },
   {
     title: "WordPress Plugins",
     description: "Custom plugin development focusing on extending WordPress functionality and building bespoke solutions.",
     tech: ["PHP", "WordPress API", "JavaScript"],
-    link: "https://github.com/s3th-hub"
+    link: "https://github.com/s3th-hub",
+    image: "/projects/plugins.jpg"
   }
 ];
 
@@ -287,7 +294,6 @@ export default function App() {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                 <div className="absolute bottom-6 left-6">
-                  <div className="text-white font-black text-2xl uppercase tracking-tighter">S3TH hub</div>
                 </div>
               </div>
               
