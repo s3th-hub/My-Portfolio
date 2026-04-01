@@ -28,7 +28,7 @@ const PROJECTS = [
     description: "A comprehensive Real Estate Management Platform designed to streamline property listings, client management, and transaction tracking.",
     tech: ["PHP", "MySQL", "JavaScript", "Tailwind CSS"],
     link: "https://github.com/s3th-hub",
-    image: "/projects/acremag.jpg"
+    image: "/images/acremag_cover.jpeg.jpg"
   },
   {
     title: "Hospital Management System",
